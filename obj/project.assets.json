@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/cashMachine.csproj",
+      "projectUniqueName": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/cashMachine/cashMachine.csproj",
       "projectName": "cashMachine",
-      "projectPath": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/cashMachine.csproj",
+      "projectPath": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/cashMachine/cashMachine.csproj",
       "packagesPath": "/home/lucas/.nuget/packages/",
-      "outputPath": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/obj/",
+      "outputPath": "/media/lucas/HD500GB/BKP LUCAS MESQUITA/Documentos/Trabalho/Transdata/teste_pratico/cashMachine/cashMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucas/.nuget/NuGet/NuGet.Config"
