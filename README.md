@@ -6,7 +6,20 @@ As opções de notas disponíveis são:
 <br />
 Este é um sistema desenvolvido em C# onde utilizei o framework .NET utilizando a arquitetura MVC.
 
-## Para executar
+## Instalação do projeto localmente:
 
-Para executar o sistema basta acessar a pasta do mesmo pelo terminal e digitar **dotnet run** <br />
-Em seguida acesse o endereço de **localhost** que aparecerá no terminal
+1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
+```
+mkdir projeto
+```
+2. Entre no diretório que acabou de criar e depois clone o projeto:
+```
+cd projeto
+git clone git@github.com:lmesquita/cashMachine.git
+```
+
+3. Acesse o diretório do projeto e depois utilize o comando dotnet run:
+```
+dotnet run
+```
+4. Em seguida acesse o endereço de **localhost** que aparecerá no terminal
